@@ -16,9 +16,9 @@
 #   footer_text_color: "#EEEEEE"
 theme_color:
   enable: true
-  main: "#FFB273"
+  main: "#333333"
   #paginator: "#FF7070"
-  #button_hover: "#8170FF"
+  button_hover: "#333399"
   #text_selection: "#000"
   #link_color: "#000"
   hr_color: "#C0C0C0"
@@ -150,9 +150,10 @@ cdn:
 avatar: /img/科协标志.png
 
 # top_img: true # false or url of img
+
 top_img: /img/background.jpg
 
-top_img_height: 85 # best range: 60 - 100
+top_img_height: 50 # best range: 60 - 100
 
 post_meta:
   date_type: created # created or updated
