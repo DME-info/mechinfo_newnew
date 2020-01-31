@@ -1,0 +1,19 @@
+#site-title {
+  font-family: Arial;
+  -webkit-font-smoothing: antialiased;
+  font-size: 72px;
+}
+
+#site-sub-title {
+  font-family: "Times New Roman"
+  font-size: 24px;
+}
+
+#site-name {
+  font-family: "微软雅黑";
+}
+
+a.site-page {
+  margin-left: 10px;
+  margin-right: 10px;
+}
